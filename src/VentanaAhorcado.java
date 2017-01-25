@@ -82,6 +82,10 @@ public class VentanaAhorcado extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+//    private void jButton1MousePressed(java.awt.event.MouseEvent evt) {                                      
+//        // TODO add your handling code here:
+//    }                                     
+
     private void jButton1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MousePressed
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton1MousePressed
